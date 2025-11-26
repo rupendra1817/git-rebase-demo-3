@@ -21,7 +21,3 @@ jdk upgrade feature 31 commit.
 jdk upgrade feature 32 commit.
 jdk upgrade feature 33 commit.
 jdk upgrade feature 34 commit.
-jdk upgrade feature 35 commit.
-jdk upgrade feature 36 commit.
-jdk upgrade feature 37 commit.
-jdk upgrade feature 38 commit.
